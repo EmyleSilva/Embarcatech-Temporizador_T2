@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Embarcatech-Temporizador_T2.uf2'
+elf = 'build/Embarcatech-Temporizador_T2.elf'
